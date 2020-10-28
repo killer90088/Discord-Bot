@@ -1,4 +1,3 @@
-const mongo = require(`../mongo`);
 const mongoose = require("mongoose");
 
 const guildSchema = mongoose.Schema({
